@@ -1,17 +1,17 @@
 AWS Technical Essentials introduces you to essential AWS services and common solutions. The course covers the fundamental AWS concepts related to compute, database, storage, networking, monitoring, and security. You will start working in AWS through hands-on course experiences. The course covers the concepts necessary to increase your understanding of AWS services, so that you can make informed decisions about solutions that meet business requirements. Throughout the course, you will gain information on how to build, compare, and apply highly available, fault tolerant, scalable, and cost-effective cloud solutions.
 
-
-
 • Course Level: Fundamental     
 
 • Duration: 4 Hours
 
 
-Activities
+# Activities
+
 This course includes presentations, Demonstrations, videos, knowledge checks, and assessment.
 
 
-Course objectives
+# Course objectives
+
 In this course, you will learn to:    
 
 • Describe terminology and concepts related to AWS services      
@@ -29,7 +29,8 @@ In this course, you will learn to:
 • Access and configure Amazon CloudWatch monitoring features
 
 
-Intended audience
+# Intended audience
+
 This course is intended for:     
 
 • Individuals responsible for articulating the technical benefits of AWS services to customers     
@@ -43,7 +44,8 @@ This course is intended for:
 • Developers
 
 
-Prerequisites
+# Prerequisites
+
 We recommend that attendees of this course have:    
 
 • IT experience    
@@ -53,7 +55,8 @@ We recommend that attendees of this course have:
 • No prior cloud computing or AWS experience required 
 
 
-Course outline
+# Course outline
+
 Course IntroductionModule 1: Introduction to Amazon Web Services     
 
 • Introduction to AWS Cloud     
@@ -66,7 +69,7 @@ Course IntroductionModule 1: Introduction to Amazon Web Services
 
 
 
-Module 2: AWS Compute     
+# Module 2: AWS Compute     
 
 • Compute as a service in AWS     
 
@@ -86,7 +89,7 @@ Module 2: AWS Compute
 
 
 
-Module 3: AWS Networking     
+# Module 3: AWS Networking     
 
 • Networking in AWS     
 
@@ -100,7 +103,7 @@ Module 3: AWS Networking
 
 
 
-Module 4: AWS Storage     
+# Module 4: AWS Storage     
 
 • AWS storage types     
 
@@ -114,7 +117,7 @@ Module 4: AWS Storage
 
 
 
-Module 5: Databases     
+# Module 5: Databases     
 
 • Explore databases in AWS     
 
@@ -130,7 +133,7 @@ Module 5: Databases
 
 
 
-Module 6: Monitoring, Optimization, and Serverless     
+# Module 6: Monitoring, Optimization, and Serverless     
 
 • Monitoring     
 
@@ -142,8 +145,8 @@ Module 6: Monitoring, Optimization, and Serverless
 
 
 
-Module 7: Course Summary
+# Module 7: Course Summary
 
 
 
-Module 8: End Of Course Assessment
+# Module 8: End Of Course Assessment
